@@ -1,0 +1,12 @@
+INSERT INTO product (name, description, brand, price, category, release_date, product_available, stock_quantity)
+VALUES
+('Smartphone A', 'Latest model with high performance', 'BrandX', 599.99, 'Electronics', '2024-01-01', true, 150),
+('Laptop B', 'Lightweight laptop with long battery life', 'BrandY', 899.99, 'Computers', '2023-11-15', true, 75),
+('Wireless Headphones', 'Noise-cancelling over-ear headphones', 'BrandZ', 199.99, 'Audio', '2023-09-20', true, 200),
+('Smartwatch C', 'Waterproof smartwatch with fitness tracking', 'BrandA', 299.99, 'Wearables', '2023-12-01', true, 100),
+('Gaming Console D', 'Latest-gen console with immersive graphics', 'BrandB', 499.99, 'Gaming', '2024-02-10', true, 50),
+('Camera E', 'Professional DSLR camera', 'BrandC', 1499.99, 'Photography', '2023-08-30', true, 30),
+('Kitchen Blender', 'High-speed blender for smoothies', 'BrandD', 99.99, 'Home Appliances', '2023-07-15', true, 120),
+('Electric Kettle', 'Fast boiling electric kettle', 'BrandE', 49.99, 'Kitchen', '2023-10-05', true, 90),
+('Smart TV F', '4K Ultra HD Smart TV', 'BrandF', 1199.99, 'Electronics', '2023-05-01', true, 60),
+('Bluetooth Speaker', 'Portable speaker with powerful bass', 'BrandG', 79.99, 'Audio', '2023-06-20', true, 150);
